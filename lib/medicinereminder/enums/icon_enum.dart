@@ -1,0 +1,2 @@
+
+enum DeleteIconState { show, hide }
